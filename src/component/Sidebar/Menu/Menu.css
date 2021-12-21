@@ -1,0 +1,31 @@
+.menu {
+  position: absolute;
+  top: 153px;
+  left: 25px;
+  width: 150px;
+  border-radius: 5px;
+  height: 50.34px;
+  background: #157aff26;
+}
+.menu-content {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.menu-details{
+    display: flex;
+    align-items: center;
+    padding:20px;
+}
+
+.menu-title {
+padding-left:18px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #808080;
+}

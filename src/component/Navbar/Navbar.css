@@ -1,0 +1,70 @@
+.navbar {
+  position:absolute;
+  height: 48px;
+  width: 563px;
+  left: 236px;
+  top: 45px;
+  display: flex;
+}
+
+.navbar-content-left{
+    display: flex;
+    align-items: center;
+}
+.navbar-input{
+    width:480px;
+    padding:16px 33px;
+    border-radius:20px;
+    border:none;
+    outline:none;
+    background: #EFF0F5;
+    margin-left:21px;
+    margin-right:21px;
+
+}
+
+.navbar-input::placeholder{
+    color:#CDCDCD
+}
+
+.navbar-content-right{
+    margin-left:226px;
+    display: flex;
+    align-items: center;       
+}
+
+.hints{
+    height:48px;
+    width:48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2477BC;
+    border-radius:30px;
+}
+.e-learning{
+    height:48px;
+    width:248px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2477BC;
+    border-radius:30px;
+}
+/* Providing Elearning gap to give space from left and right  */
+.e-learning-gap{
+    margin-left:43px;
+    margin-right: 43px;
+}
+.e-learning-content{
+    display: flex;
+    align-items: center;
+}
+.e-learning-content img{
+    padding-right: 26px;
+}
+.e-learning p{
+    color:white;
+    font-size: 18px;
+}
+

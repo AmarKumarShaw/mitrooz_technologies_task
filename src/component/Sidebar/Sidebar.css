@@ -1,0 +1,22 @@
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background-color: #fff;
+  position: relative;
+}
+.menu-bar {
+  position: absolute;
+  top: 45px;
+  height: 17px;
+  width: 22.66px;
+  left: 39px;
+  border-radius: 0px;
+}
+.brand-logo {
+  position: absolute;
+  height: 35px;
+  width: 82px;
+  left: 81px;
+  top: 40px;
+  border-radius: 0px;
+}
